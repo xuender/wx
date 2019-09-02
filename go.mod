@@ -1,4 +1,4 @@
-module github.com/xuender/profile
+module github.com/xuender/wx
 
 go 1.12
 
